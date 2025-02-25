@@ -1,6 +1,6 @@
 ## 📌 Important Files
 
-- [ first ](./Stack/Stack implementation using LinkedList.java) -  Stack Implementation Using LinkedList  
+- [ Stack ] (https://github.com/Vishvjeet7974/DSA-Problems/blob/main/Stack/Stack%20implementation%20using%20Array) -  Stack Implementation Using LinkedList  
   
 
 
