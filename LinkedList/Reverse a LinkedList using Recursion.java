@@ -1,4 +1,4 @@
-Node reverseList(Node head) {
+Node reverseList(Node head) { 
 
     if (head == null || head.next == null)
         return head;
